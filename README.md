@@ -38,7 +38,8 @@ export ELEVENLABS_VOICE_ID='your_elevenlabs_voice_id_here'
 ```
 To find a new voice ID, utilize ElevenLabs' [Get Voices](https://elevenlabs.io/docs/api-reference/voices) API or select a voice directly from the VoiceLab tab on their platform.
 
-
+## Source
+[cbh123 narrator](https://github.com/cbh123/narrator)
 
 
 
